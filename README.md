@@ -4,8 +4,7 @@ It is a movie ticket booking website, currently with front-end only.
 It is available in both dark & light mode.
 
 ## Demo
-The link below is a deployed version of the website for demo use only.
-http://myshowz.infinityfreeapp.com/
+The web application has been deployed, but was shut down because of Heroku ending free trials on October 1st.
 
 # Glimpse of the Website
 ## Home page in the dark mode
