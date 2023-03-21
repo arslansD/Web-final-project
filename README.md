@@ -1,10 +1,10 @@
 # MyShowz Movie ticket booking website
-This project has been made as a final task for Human Computer Interaction course at Alatoo International University.
+This project has been made as a final task for Web development course at Alatoo International University.
 It is a movie ticket booking website, currently with front-end only.
 It is available in both dark & light mode.
 
 ## Demo
-The web application has been deployed, but was shut down because of Heroku ending free trials on October 1st.
+Currently, the web application cannot be deployed, because of Heroku ending free trials on October 1st.
 
 # Glimpse of the Website
 ## Home page in the dark mode
