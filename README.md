@@ -1,5 +1,5 @@
 # MyShowz Movie ticket booking website
-![Ala-too International University](./screenshots/MyShowz_sign-in_page_dark.PNG)
+![Ala-too International University](./screenshots/logo.PNG)
 This project has been made as a final task for Web development course at Alatoo International University.
 It is a movie ticket booking website, currently with front-end only.
 It is available in both dark & light mode.
